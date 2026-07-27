@@ -6,4 +6,4 @@ Jupyter notebooks can be found in the tutorials folder. Ensure that you have ins
 
 *Begin with the [pre-requisite notebook](https://github.com/mingming-gong/MAST30034_Python/blob/main/tutorials/Python_PreReq_Notebook.ipynb). Please ensure you have completed this notebook before your first workshop!*
 
-test
+t
